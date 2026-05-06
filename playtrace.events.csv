@@ -1,0 +1,278 @@
+_id,sessionId,stepId,decision,tags[0],tags[1],timestamp,scenarioText,decisionText,hesitationMs,decisionTimeMs
+69f87b31292861775ec1b4a1,68f3258d-4173-40b4-bf90-6be7ae9b6bb9,s1,s1-a4,cautious,ethical,2026-05-04T10:55:45.652Z,,,,
+69f87b31292861775ec1b4a2,68f3258d-4173-40b4-bf90-6be7ae9b6bb9,s2,s2-a1,risk,selfish,2026-05-04T10:55:45.654Z,,,,
+69f87b33292861775ec1b4a3,68f3258d-4173-40b4-bf90-6be7ae9b6bb9,s3_risk,s3r-a1,ethical,methodical,2026-05-04T10:55:47.259Z,,,,
+69f87b36292861775ec1b4a4,68f3258d-4173-40b4-bf90-6be7ae9b6bb9,s4,s4-a2,cautious,ethical,2026-05-04T10:55:50.512Z,,,,
+69f87b3d6babd9fcd69d4a62,68f3258d-4173-40b4-bf90-6be7ae9b6bb9,s5,s5-a4,ethical,assertive,2026-05-04T10:55:57.158Z,,,,
+69f87b3e6babd9fcd69d4a63,68f3258d-4173-40b4-bf90-6be7ae9b6bb9,s6,s6-a1,selfish,pressure_sensitive,2026-05-04T10:55:58.472Z,,,,
+69f87b406babd9fcd69d4a64,68f3258d-4173-40b4-bf90-6be7ae9b6bb9,s7,s7-a3,cautious,ethical,2026-05-04T10:56:00.984Z,,,,
+69f87b426babd9fcd69d4a65,68f3258d-4173-40b4-bf90-6be7ae9b6bb9,s8,s8-a1,consistent,methodical,2026-05-04T10:56:02.595Z,,,,
+69f87b446babd9fcd69d4a66,68f3258d-4173-40b4-bf90-6be7ae9b6bb9,s9,s9-a1,risk,pressure_sensitive,2026-05-04T10:56:04.543Z,,,,
+69f87b476babd9fcd69d4a67,68f3258d-4173-40b4-bf90-6be7ae9b6bb9,s10,s10-a1,selfish,avoidant,2026-05-04T10:56:07.310Z,,,,
+69f880c7ed2d250cfbc5de84,56cd215c-2114-4ad5-bd41-b598a10123cc,s1,s1-a1,methodical,quality,2026-05-04T11:19:35.358Z,,,,
+69f880c7ed2d250cfbc5de85,56cd215c-2114-4ad5-bd41-b598a10123cc,s2,s2-a1,risk,selfish,2026-05-04T11:19:35.359Z,,,,
+69f880ce5071e87553968784,56cd215c-2114-4ad5-bd41-b598a10123cc,s3_risk,s3r-a1,ethical,methodical,2026-05-04T11:19:42.321Z,,,,
+69f880d05071e87553968785,56cd215c-2114-4ad5-bd41-b598a10123cc,s4,s4-a4,ethical,collaborative,2026-05-04T11:19:44.612Z,,,,
+69f880d95071e87553968786,56cd215c-2114-4ad5-bd41-b598a10123cc,s5,s5-a2,avoidant,selfish,2026-05-04T11:19:53.728Z,,,,
+69f880e55071e87553968787,56cd215c-2114-4ad5-bd41-b598a10123cc,s6_cascade,s6c-a1,decisive,risk,2026-05-04T11:20:05.245Z,,,,
+69f880ee5071e87553968788,56cd215c-2114-4ad5-bd41-b598a10123cc,s7,s7-a4,pressure_sensitive,avoidant,2026-05-04T11:20:14.829Z,,,,
+69f880f15071e87553968789,56cd215c-2114-4ad5-bd41-b598a10123cc,s8,s8-a1,consistent,methodical,2026-05-04T11:20:17.723Z,,,,
+69f881165071e8755396878a,56cd215c-2114-4ad5-bd41-b598a10123cc,s9,s9-a1,risk,pressure_sensitive,2026-05-04T11:20:54.871Z,,,,
+69f8812c5071e8755396878b,cb7321fc-5bff-4ee7-8ea3-c4f4117aa865,s1,s1-a2,risk,selfish,2026-05-04T11:21:16.314Z,,,,
+69f881375071e8755396878c,cb7321fc-5bff-4ee7-8ea3-c4f4117aa865,s2,s2-a4,ethical,pressure_sensitive,2026-05-04T11:21:27.875Z,,,,
+69f8813b5071e8755396878d,c427853c-51de-4b9f-95db-4c1e59eba37e,s1,s1-a4,cautious,ethical,2026-05-04T11:21:31.090Z,,,,
+69f8813eed2d250cfbc5de86,43160dec-0bb5-474a-a4b6-8fb5bbf3eabb,s1,s1-a1,methodical,quality,2026-05-04T11:21:34.160Z,,,,
+69f8813f5071e8755396878e,c427853c-51de-4b9f-95db-4c1e59eba37e,s2,s2-a3,risk,avoidant,2026-05-04T11:21:35.376Z,,,,
+69f88144ed2d250cfbc5de87,d8b068ca-8f24-4812-a44a-1592582dd802,s1,s1-a1,methodical,quality,2026-05-04T11:21:40.586Z,,,,
+69f8814aa45049dfa6b33aa1,43160dec-0bb5-474a-a4b6-8fb5bbf3eabb,s2,s2-a4,ethical,pressure_sensitive,2026-05-04T11:21:46.872Z,,,,
+69f8814aa45049dfa6b33aa2,cb7321fc-5bff-4ee7-8ea3-c4f4117aa865,s3_methodical,s3m-a3,risk,pressure_sensitive,2026-05-04T11:21:46.873Z,,,,
+69f8814aa45049dfa6b33aa3,d8b068ca-8f24-4812-a44a-1592582dd802,s2,s2-a1,risk,selfish,2026-05-04T11:21:46.873Z,,,,
+69f8814d5071e8755396878f,c427853c-51de-4b9f-95db-4c1e59eba37e,s3_risk,s3r-a3,selfish,avoidant,2026-05-04T11:21:49.302Z,,,,
+69f881505071e87553968790,cb7321fc-5bff-4ee7-8ea3-c4f4117aa865,s4,s4-a4,ethical,collaborative,2026-05-04T11:21:52.747Z,,,,
+69f881555071e87553968791,c427853c-51de-4b9f-95db-4c1e59eba37e,s4,s4-a4,ethical,collaborative,2026-05-04T11:21:57.008Z,,,,
+69f881565071e87553968792,d8b068ca-8f24-4812-a44a-1592582dd802,s3_risk,s3r-a4,risk,avoidant,2026-05-04T11:21:58.323Z,,,,
+69f88159ed2d250cfbc5de88,43160dec-0bb5-474a-a4b6-8fb5bbf3eabb,s3_methodical,s3m-a4,methodical,adaptive,2026-05-04T11:22:01.919Z,,,,
+69f8815c5071e87553968793,d8b068ca-8f24-4812-a44a-1592582dd802,s4,s4-a1,risk,selfish,2026-05-04T11:22:04.834Z,,,,
+69f8815ea45049dfa6b33aa4,5b8f081b-18e1-4502-b066-edc10a58e8cb,s1,s1-a1,methodical,quality,2026-05-04T11:22:06.624Z,,,,
+69f881615071e87553968794,43160dec-0bb5-474a-a4b6-8fb5bbf3eabb,s4,s4-a4,ethical,collaborative,2026-05-04T11:22:09.377Z,,,,
+69f881625071e87553968795,cb7321fc-5bff-4ee7-8ea3-c4f4117aa865,s5,s5-a1,ethical,methodical,2026-05-04T11:22:10.544Z,,,,
+69f881635071e87553968796,c427853c-51de-4b9f-95db-4c1e59eba37e,s5,s5-a3,risk,selfish,2026-05-04T11:22:11.315Z,,,,
+69f881675071e87553968797,c427853c-51de-4b9f-95db-4c1e59eba37e,s6_cascade,s6c-a1,decisive,risk,2026-05-04T11:22:15.809Z,,,,
+69f8816aed2d250cfbc5de89,5b8f081b-18e1-4502-b066-edc10a58e8cb,s2,s2-a4,ethical,pressure_sensitive,2026-05-04T11:22:18.040Z,,,,
+69f8816bed2d250cfbc5de8a,cb7321fc-5bff-4ee7-8ea3-c4f4117aa865,s6,s6-a1,selfish,pressure_sensitive,2026-05-04T11:22:19.958Z,,,,
+69f8816c5071e87553968798,d8b068ca-8f24-4812-a44a-1592582dd802,s5,s5-a3,risk,selfish,2026-05-04T11:22:20.870Z,,,,
+69f88172ed2d250cfbc5de8b,c427853c-51de-4b9f-95db-4c1e59eba37e,s7,s7-a4,pressure_sensitive,avoidant,2026-05-04T11:22:26.649Z,,,,
+69f88173ed2d250cfbc5de8c,43160dec-0bb5-474a-a4b6-8fb5bbf3eabb,s5,s5-a4,ethical,assertive,2026-05-04T11:22:27.848Z,,,,
+69f881755071e87553968799,cb7321fc-5bff-4ee7-8ea3-c4f4117aa865,s7,s7-a4,pressure_sensitive,avoidant,2026-05-04T11:22:29.472Z,,,,
+69f881765071e8755396879a,5b8f081b-18e1-4502-b066-edc10a58e8cb,s3_methodical,s3m-a4,methodical,adaptive,2026-05-04T11:22:30.369Z,,,,
+69f881775071e8755396879b,d8b068ca-8f24-4812-a44a-1592582dd802,s6_cascade,s6c-a1,decisive,risk,2026-05-04T11:22:31.274Z,,,,
+69f881785071e8755396879c,7e0450aa-fa66-4add-9197-e35424edadd3,s1,s1-a4,cautious,ethical,2026-05-04T11:22:32.478Z,,,,
+69f8817aed2d250cfbc5de8d,a4986a93-b5c0-4559-a34a-6a0c5ef163b8,s1,s1-a4,cautious,ethical,2026-05-04T11:22:34.884Z,,,,
+69f8817b5071e8755396879d,735ede25-a1f7-4ad2-8e0e-710450d11299,s1,s1-a1,methodical,quality,2026-05-04T11:22:35.876Z,,,,
+69f8817d5071e8755396879e,5b8f081b-18e1-4502-b066-edc10a58e8cb,s4,s4-a4,ethical,collaborative,2026-05-04T11:22:37.837Z,,,,
+69f8817e5071e8755396879f,43160dec-0bb5-474a-a4b6-8fb5bbf3eabb,s6,s6-a1,selfish,pressure_sensitive,2026-05-04T11:22:38.216Z,,,,
+69f8817e5071e875539687a0,7e0450aa-fa66-4add-9197-e35424edadd3,s2,s2-a4,ethical,pressure_sensitive,2026-05-04T11:22:38.511Z,,,,
+69f8817f5071e875539687a1,98f4dcca-abbf-4924-8b6e-3438d382a479,s1,s1-a4,cautious,ethical,2026-05-04T11:22:39.006Z,,,,
+69f8817f5071e875539687a2,d8b068ca-8f24-4812-a44a-1592582dd802,s7,s7-a1,assertive,ethical,2026-05-04T11:22:39.458Z,,,,
+69f881805071e875539687a3,12891a1f-acda-46cd-80d1-b9a1bcc051cb,s1,s1-a4,cautious,ethical,2026-05-04T11:22:40.387Z,,,,
+69f881805071e875539687a4,5682ded1-b201-42ed-b2c9-547740048b09,s1,s1-a3,risk,pragmatic,2026-05-04T11:22:40.497Z,,,,
+69f88185a45049dfa6b33aa5,cb7321fc-5bff-4ee7-8ea3-c4f4117aa865,s8,s8-a4,cautious,collaborative,2026-05-04T11:22:45.213Z,,,,
+69f88185a45049dfa6b33aa6,a4986a93-b5c0-4559-a34a-6a0c5ef163b8,s2,s2-a4,ethical,pressure_sensitive,2026-05-04T11:22:45.241Z,,,,
+69f88185a45049dfa6b33aa7,735ede25-a1f7-4ad2-8e0e-710450d11299,s2,s2-a2,cautious,methodical,2026-05-04T11:22:45.256Z,,,,
+69f881855071e875539687a5,cb7321fc-5bff-4ee7-8ea3-c4f4117aa865,s9,s9-a2,avoidant,cautious,2026-05-04T11:22:45.740Z,,,,
+69f881865071e875539687a6,43160dec-0bb5-474a-a4b6-8fb5bbf3eabb,s7,s7-a3,cautious,ethical,2026-05-04T11:22:46.700Z,,,,
+69f881895071e875539687a7,98f4dcca-abbf-4924-8b6e-3438d382a479,s2,s2-a4,ethical,pressure_sensitive,2026-05-04T11:22:49.490Z,,,,
+69f8818a5071e875539687a8,d8b068ca-8f24-4812-a44a-1592582dd802,s8_advocate,s8a-a1,consistent,assertive,2026-05-04T11:22:50.216Z,,,,
+69f8818aed2d250cfbc5de8e,12891a1f-acda-46cd-80d1-b9a1bcc051cb,s2,s2-a4,ethical,pressure_sensitive,2026-05-04T11:22:50.946Z,,,,
+69f8818b5071e875539687a9,cb7321fc-5bff-4ee7-8ea3-c4f4117aa865,s10,s10-a1,selfish,avoidant,2026-05-04T11:22:51.852Z,,,,
+69f8818ded2d250cfbc5de8f,5682ded1-b201-42ed-b2c9-547740048b09,s2,s2-a4,ethical,pressure_sensitive,2026-05-04T11:22:53.523Z,,,,
+69f8818e5071e875539687aa,d8b068ca-8f24-4812-a44a-1592582dd802,s9,s9-a1,risk,pressure_sensitive,2026-05-04T11:22:54.269Z,,,,
+69f8818eed2d250cfbc5de90,3296a07e-150c-4e9a-96e2-8c1cea75f345,s1,s1-a4,cautious,ethical,2026-05-04T11:22:54.711Z,,,,
+69f8818e5071e875539687ab,3296a07e-150c-4e9a-96e2-8c1cea75f345,s2,s2-a3,risk,avoidant,2026-05-04T11:22:54.990Z,,,,
+69f88191f61105aa6cd4068d,3296a07e-150c-4e9a-96e2-8c1cea75f345,s1,s1-a4,cautious,ethical,2026-05-04T11:22:57.455Z,,,,
+69f88191f61105aa6cd4068e,7e0450aa-fa66-4add-9197-e35424edadd3,s3_methodical,s3m-a4,methodical,adaptive,2026-05-04T11:22:57.456Z,,,,
+69f88191f61105aa6cd4068f,5b8f081b-18e1-4502-b066-edc10a58e8cb,s5,s5-a3,risk,selfish,2026-05-04T11:22:57.456Z,,,,
+69f88192f61105aa6cd40690,3296a07e-150c-4e9a-96e2-8c1cea75f345,s3_risk,s3r-a1,ethical,methodical,2026-05-04T11:22:58.781Z,,,,
+69f88192f61105aa6cd40691,5a05c2b0-58de-49a5-a72c-6edf09a09308,s1,s1-a4,cautious,ethical,2026-05-04T11:22:58.909Z,,,,
+69f88194f61105aa6cd40692,43160dec-0bb5-474a-a4b6-8fb5bbf3eabb,s8,s8-a4,cautious,collaborative,2026-05-04T11:23:00.194Z,,,,
+69f88196ed2d250cfbc5de91,735ede25-a1f7-4ad2-8e0e-710450d11299,s3_methodical,s3m-a4,methodical,adaptive,2026-05-04T11:23:02.723Z,,,,
+69f88196ed2d250cfbc5de92,a4986a93-b5c0-4559-a34a-6a0c5ef163b8,s3_methodical,s3m-a4,methodical,adaptive,2026-05-04T11:23:02.758Z,,,,
+69f88197f61105aa6cd40693,7e0450aa-fa66-4add-9197-e35424edadd3,s4,s4-a4,ethical,collaborative,2026-05-04T11:23:03.448Z,,,,
+69f88198ed2d250cfbc5de93,d8b068ca-8f24-4812-a44a-1592582dd802,s10,s10-a1,selfish,avoidant,2026-05-04T11:23:04.802Z,,,,
+69f88199f61105aa6cd40694,3296a07e-150c-4e9a-96e2-8c1cea75f345,s4,s4-a3,avoidant,pressure_sensitive,2026-05-04T11:23:05.283Z,,,,
+69f88199f61105aa6cd40695,43160dec-0bb5-474a-a4b6-8fb5bbf3eabb,s9,s9-a3,cautious,methodical,2026-05-04T11:23:05.717Z,,,,
+69f8819af61105aa6cd40696,98f4dcca-abbf-4924-8b6e-3438d382a479,s3_methodical,s3m-a2,avoidant,pressure_sensitive,2026-05-04T11:23:06.946Z,,,,
+69f8819cf61105aa6cd40697,12891a1f-acda-46cd-80d1-b9a1bcc051cb,s3_methodical,s3m-a4,methodical,adaptive,2026-05-04T11:23:08.510Z,,,,
+69f8819cf61105aa6cd40698,5b8f081b-18e1-4502-b066-edc10a58e8cb,s6_cascade,s6c-a1,decisive,risk,2026-05-04T11:23:08.664Z,,,,
+69f8819df61105aa6cd40699,5a05c2b0-58de-49a5-a72c-6edf09a09308,s2,s2-a4,ethical,pressure_sensitive,2026-05-04T11:23:09.388Z,,,,
+69f8819ef61105aa6cd4069a,a4986a93-b5c0-4559-a34a-6a0c5ef163b8,s4,s4-a4,ethical,collaborative,2026-05-04T11:23:10.190Z,,,,
+69f8819ef61105aa6cd4069b,735ede25-a1f7-4ad2-8e0e-710450d11299,s4,s4-a1,risk,selfish,2026-05-04T11:23:10.236Z,,,,
+69f881a1f61105aa6cd4069c,5682ded1-b201-42ed-b2c9-547740048b09,s3_methodical,s3m-a3,risk,pressure_sensitive,2026-05-04T11:23:13.620Z,,,,
+69f881a2f61105aa6cd4069d,98f4dcca-abbf-4924-8b6e-3438d382a479,s4,s4-a4,ethical,collaborative,2026-05-04T11:23:14.433Z,,,,
+69f881a3f61105aa6cd4069e,43160dec-0bb5-474a-a4b6-8fb5bbf3eabb,s10,s10-a4,avoidant,pressure_sensitive,2026-05-04T11:23:15.137Z,,,,
+69f881a4f61105aa6cd4069f,12891a1f-acda-46cd-80d1-b9a1bcc051cb,s4,s4-a4,ethical,collaborative,2026-05-04T11:23:16.020Z,,,,
+69f881a6f61105aa6cd406a0,5b8f081b-18e1-4502-b066-edc10a58e8cb,s7,s7-a4,pressure_sensitive,avoidant,2026-05-04T11:23:18.132Z,,,,
+69f881a8f61105aa6cd406a1,3296a07e-150c-4e9a-96e2-8c1cea75f345,s5,s5-a2,avoidant,selfish,2026-05-04T11:23:20.123Z,,,,
+69f881a8f61105aa6cd406a2,4e308347-c205-4e6b-94cc-97cf0c2f572f,s1,s1-a4,cautious,ethical,2026-05-04T11:23:20.198Z,,,,
+69f881a9f61105aa6cd406a3,4e308347-c205-4e6b-94cc-97cf0c2f572f,s2,s2-a4,ethical,pressure_sensitive,2026-05-04T11:23:21.916Z,,,,
+69f881aaf61105aa6cd406a4,3296a07e-150c-4e9a-96e2-8c1cea75f345,s6_cascade,s6c-a1,decisive,risk,2026-05-04T11:23:22.004Z,,,,
+69f881aaed2d250cfbc5de94,5682ded1-b201-42ed-b2c9-547740048b09,s4,s4-a4,ethical,collaborative,2026-05-04T11:23:22.402Z,,,,
+69f881aaed2d250cfbc5de95,7e0450aa-fa66-4add-9197-e35424edadd3,s5,s5-a4,ethical,assertive,2026-05-04T11:23:22.817Z,,,,
+69f881aef61105aa6cd406a5,5a05c2b0-58de-49a5-a72c-6edf09a09308,s3_methodical,s3m-a2,avoidant,pressure_sensitive,2026-05-04T11:23:26.838Z,,,,
+69f881aff61105aa6cd406a6,7e0450aa-fa66-4add-9197-e35424edadd3,s6,s6-a1,selfish,pressure_sensitive,2026-05-04T11:23:27.261Z,,,,
+69f881b0f61105aa6cd406a7,92b80728-2557-4ce1-81e1-a25869236324,s1,s1-a1,methodical,quality,2026-05-04T11:23:28.317Z,,,,
+69f881b0f61105aa6cd406a8,735ede25-a1f7-4ad2-8e0e-710450d11299,s5,s5-a2,avoidant,selfish,2026-05-04T11:23:28.652Z,,,,
+69f881b1f61105aa6cd406a9,a4986a93-b5c0-4559-a34a-6a0c5ef163b8,s5,s5-a4,ethical,assertive,2026-05-04T11:23:29.558Z,,,,
+69f881b4a45049dfa6b33aa8,5b8f081b-18e1-4502-b066-edc10a58e8cb,s8,s8-a4,cautious,collaborative,2026-05-04T11:23:32.624Z,,,,
+69f881b4a45049dfa6b33aa9,98f4dcca-abbf-4924-8b6e-3438d382a479,s5,s5-a4,ethical,assertive,2026-05-04T11:23:32.894Z,,,,
+69f881b5f61105aa6cd406aa,3296a07e-150c-4e9a-96e2-8c1cea75f345,s7,s7-a4,pressure_sensitive,avoidant,2026-05-04T11:23:33.585Z,,,,
+69f881b6ed2d250cfbc5de96,5a05c2b0-58de-49a5-a72c-6edf09a09308,s4,s4-a1,risk,selfish,2026-05-04T11:23:34.328Z,,,,
+69f881b7f61105aa6cd406ab,5b8f081b-18e1-4502-b066-edc10a58e8cb,s9,s9-a1,risk,pressure_sensitive,2026-05-04T11:23:35.038Z,,,,
+69f881b7ed2d250cfbc5de97,12891a1f-acda-46cd-80d1-b9a1bcc051cb,s5,s5-a1,ethical,methodical,2026-05-04T11:23:35.669Z,,,,
+69f881b8f61105aa6cd406ac,7e0450aa-fa66-4add-9197-e35424edadd3,s7,s7-a1,assertive,ethical,2026-05-04T11:23:36.713Z,,,,
+69f881baed2d250cfbc5de98,92b80728-2557-4ce1-81e1-a25869236324,s2,s2-a4,ethical,pressure_sensitive,2026-05-04T11:23:38.769Z,,,,
+69f881bbf61105aa6cd406ad,735ede25-a1f7-4ad2-8e0e-710450d11299,s6_cascade,s6c-a1,decisive,risk,2026-05-04T11:23:39.120Z,,,,
+69f881bbf61105aa6cd406ae,5b8f081b-18e1-4502-b066-edc10a58e8cb,s10,s10-a2,ethical,consistent,2026-05-04T11:23:39.302Z,,,,
+69f881bbf61105aa6cd406af,4e308347-c205-4e6b-94cc-97cf0c2f572f,s3_methodical,s3m-a4,methodical,adaptive,2026-05-04T11:23:39.378Z,,,,
+69f881bbf61105aa6cd406b0,edd67e4b-31c2-428f-a7e4-69e8da79d66f,s1,s1-a4,cautious,ethical,2026-05-04T11:23:39.511Z,,,,
+69f881bef61105aa6cd406b1,a4986a93-b5c0-4559-a34a-6a0c5ef163b8,s6,s6-a1,selfish,pressure_sensitive,2026-05-04T11:23:42.055Z,,,,
+69f881bef61105aa6cd406b2,3296a07e-150c-4e9a-96e2-8c1cea75f345,s8,s8-a2,risk,adaptive,2026-05-04T11:23:42.306Z,,,,
+69f881bff61105aa6cd406b3,5682ded1-b201-42ed-b2c9-547740048b09,s5,s5-a2,avoidant,selfish,2026-05-04T11:23:43.311Z,,,,
+69f881c0f61105aa6cd406b4,98f4dcca-abbf-4924-8b6e-3438d382a479,s6,s6-a1,selfish,pressure_sensitive,2026-05-04T11:23:44.365Z,,,,
+69f881c2f61105aa6cd406b5,4e308347-c205-4e6b-94cc-97cf0c2f572f,s4,s4-a4,ethical,collaborative,2026-05-04T11:23:46.850Z,,,,
+69f881c3f61105aa6cd406b6,f2789fac-1b14-4fe1-b13a-a63b96b114d4,s1,s1-a4,cautious,ethical,2026-05-04T11:23:47.446Z,,,,
+69f881c3ed2d250cfbc5de99,3296a07e-150c-4e9a-96e2-8c1cea75f345,s9,s9-a3,cautious,methodical,2026-05-04T11:23:47.937Z,,,,
+69f881c4ed2d250cfbc5de9a,12891a1f-acda-46cd-80d1-b9a1bcc051cb,s6,s6-a1,selfish,pressure_sensitive,2026-05-04T11:23:48.055Z,,,,
+69f881c4f61105aa6cd406b7,735ede25-a1f7-4ad2-8e0e-710450d11299,s7,s7-a4,pressure_sensitive,avoidant,2026-05-04T11:23:48.577Z,,,,
+69f881c5f61105aa6cd406b8,edd67e4b-31c2-428f-a7e4-69e8da79d66f,s2,s2-a4,ethical,pressure_sensitive,2026-05-04T11:23:49.978Z,,,,
+69f881c7ed2d250cfbc5de9b,7e0450aa-fa66-4add-9197-e35424edadd3,s8_advocate,s8a-a4,risk,assertive,2026-05-04T11:23:51.184Z,,,,
+69f881c7f61105aa6cd406b9,a4986a93-b5c0-4559-a34a-6a0c5ef163b8,s7,s7-a4,pressure_sensitive,avoidant,2026-05-04T11:23:51.542Z,,,,
+69f881c8ed2d250cfbc5de9c,98f4dcca-abbf-4924-8b6e-3438d382a479,s7,s7-a4,pressure_sensitive,avoidant,2026-05-04T11:23:52.835Z,,,,
+69f881c9ed2d250cfbc5de9d,7e0450aa-fa66-4add-9197-e35424edadd3,s9,s9-a2,avoidant,cautious,2026-05-04T11:23:53.485Z,,,,
+69f881caf61105aa6cd406ba,5a05c2b0-58de-49a5-a72c-6edf09a09308,s5,s5-a4,ethical,assertive,2026-05-04T11:23:54.713Z,,,,
+69f881cbf61105aa6cd406bb,5682ded1-b201-42ed-b2c9-547740048b09,s6_cascade,s6c-a1,decisive,risk,2026-05-04T11:23:55.798Z,,,,
+69f881ccf61105aa6cd406bc,92b80728-2557-4ce1-81e1-a25869236324,s3_methodical,s3m-a4,methodical,adaptive,2026-05-04T11:23:56.226Z,,,,
+69f881ccf61105aa6cd406bd,12891a1f-acda-46cd-80d1-b9a1bcc051cb,s7,s7-a4,pressure_sensitive,avoidant,2026-05-04T11:23:56.626Z,,,,
+69f881cda45049dfa6b33aaa,f2789fac-1b14-4fe1-b13a-a63b96b114d4,s2,s2-a4,ethical,pressure_sensitive,2026-05-04T11:23:57.786Z,,,,
+69f881cef61105aa6cd406be,3296a07e-150c-4e9a-96e2-8c1cea75f345,s10,s10-a4,avoidant,pressure_sensitive,2026-05-04T11:23:58.289Z,,,,
+69f881d2a45049dfa6b33aab,5a05c2b0-58de-49a5-a72c-6edf09a09308,s6,s6-a1,selfish,pressure_sensitive,2026-05-04T11:24:02.396Z,,,,
+69f881d2ed2d250cfbc5de9e,7e0450aa-fa66-4add-9197-e35424edadd3,s10,s10-a4,avoidant,pressure_sensitive,2026-05-04T11:24:02.942Z,,,,
+69f881d3ed2d250cfbc5de9f,735ede25-a1f7-4ad2-8e0e-710450d11299,s8,s8-a4,cautious,collaborative,2026-05-04T11:24:03.036Z,,,,
+69f881d3a45049dfa6b33aac,92b80728-2557-4ce1-81e1-a25869236324,s4,s4-a4,ethical,collaborative,2026-05-04T11:24:03.687Z,,,,
+69f881d5f61105aa6cd406bf,5682ded1-b201-42ed-b2c9-547740048b09,s7,s7-a2,avoidant,pressure_sensitive,2026-05-04T11:24:05.402Z,,,,
+69f881d5f61105aa6cd406c0,a4986a93-b5c0-4559-a34a-6a0c5ef163b8,s8,s8-a4,cautious,collaborative,2026-05-04T11:24:05.975Z,,,,
+69f881d6ed2d250cfbc5dea0,4e308347-c205-4e6b-94cc-97cf0c2f572f,s5,s5-a3,risk,selfish,2026-05-04T11:24:06.297Z,,,,
+69f881d6f61105aa6cd406c1,98f4dcca-abbf-4924-8b6e-3438d382a479,s8,s8-a4,cautious,collaborative,2026-05-04T11:24:06.321Z,,,,
+69f881d7ed2d250cfbc5dea1,edd67e4b-31c2-428f-a7e4-69e8da79d66f,s3_methodical,s3m-a1,ethical,assertive,2026-05-04T11:24:07.416Z,,,,
+69f881d8f61105aa6cd406c2,735ede25-a1f7-4ad2-8e0e-710450d11299,s9,s9-a3,cautious,methodical,2026-05-04T11:24:08.501Z,,,,
+69f881daf61105aa6cd406c3,12891a1f-acda-46cd-80d1-b9a1bcc051cb,s8,s8-a4,cautious,collaborative,2026-05-04T11:24:10.282Z,,,,
+69f881dbed2d250cfbc5dea2,a4986a93-b5c0-4559-a34a-6a0c5ef163b8,s9,s9-a3,cautious,methodical,2026-05-04T11:24:11.425Z,,,,
+69f881dbf61105aa6cd406c4,98f4dcca-abbf-4924-8b6e-3438d382a479,s9,s9-a3,cautious,methodical,2026-05-04T11:24:11.788Z,,,,
+69f881dbf61105aa6cd406c5,5a05c2b0-58de-49a5-a72c-6edf09a09308,s7,s7-a4,pressure_sensitive,avoidant,2026-05-04T11:24:11.873Z,,,,
+69f881def61105aa6cd406c6,edd67e4b-31c2-428f-a7e4-69e8da79d66f,s4,s4-a4,ethical,collaborative,2026-05-04T11:24:14.918Z,,,,
+69f881dff61105aa6cd406c7,f2789fac-1b14-4fe1-b13a-a63b96b114d4,s3_methodical,s3m-a4,methodical,adaptive,2026-05-04T11:24:15.212Z,,,,
+69f881dff61105aa6cd406c8,12891a1f-acda-46cd-80d1-b9a1bcc051cb,s9,s9-a3,cautious,methodical,2026-05-04T11:24:15.691Z,,,,
+69f881e1ed2d250cfbc5dea3,4e308347-c205-4e6b-94cc-97cf0c2f572f,s6_cascade,s6c-a1,decisive,risk,2026-05-04T11:24:17.742Z,,,,
+69f881e2ed2d250cfbc5dea4,735ede25-a1f7-4ad2-8e0e-710450d11299,s10,s10-a2,ethical,consistent,2026-05-04T11:24:18.975Z,,,,
+69f881e4f61105aa6cd406c9,a4986a93-b5c0-4559-a34a-6a0c5ef163b8,s10,s10-a4,avoidant,pressure_sensitive,2026-05-04T11:24:20.904Z,,,,
+69f881e5f61105aa6cd406ca,98f4dcca-abbf-4924-8b6e-3438d382a479,s10,s10-a4,avoidant,pressure_sensitive,2026-05-04T11:24:21.251Z,,,,
+69f881e6f61105aa6cd406cb,92b80728-2557-4ce1-81e1-a25869236324,s5,s5-a4,ethical,assertive,2026-05-04T11:24:22.161Z,,,,
+69f881e6f61105aa6cd406cc,f2789fac-1b14-4fe1-b13a-a63b96b114d4,s4,s4-a4,ethical,collaborative,2026-05-04T11:24:22.491Z,,,,
+69f881e6f61105aa6cd406cd,5682ded1-b201-42ed-b2c9-547740048b09,s8,s8-a4,cautious,collaborative,2026-05-04T11:24:22.523Z,,,,
+69f881e9f61105aa6cd406ce,12891a1f-acda-46cd-80d1-b9a1bcc051cb,s10,s10-a4,avoidant,pressure_sensitive,2026-05-04T11:24:25.221Z,,,,
+69f881eaed2d250cfbc5dea5,5a05c2b0-58de-49a5-a72c-6edf09a09308,s8,s8-a4,cautious,collaborative,2026-05-04T11:24:26.366Z,,,,
+69f881eaf61105aa6cd406cf,5682ded1-b201-42ed-b2c9-547740048b09,s9,s9-a1,risk,pressure_sensitive,2026-05-04T11:24:26.685Z,,,,
+69f881ebf61105aa6cd406d0,4e308347-c205-4e6b-94cc-97cf0c2f572f,s7,s7-a4,pressure_sensitive,avoidant,2026-05-04T11:24:27.190Z,,,,
+69f881eff61105aa6cd406d1,5a05c2b0-58de-49a5-a72c-6edf09a09308,s9,s9-a3,cautious,methodical,2026-05-04T11:24:31.825Z,,,,
+69f881f1f61105aa6cd406d2,92b80728-2557-4ce1-81e1-a25869236324,s6,s6-a1,selfish,pressure_sensitive,2026-05-04T11:24:33.663Z,,,,
+69f881f2f61105aa6cd406d3,edd67e4b-31c2-428f-a7e4-69e8da79d66f,s5,s5-a2,avoidant,selfish,2026-05-04T11:24:34.310Z,,,,
+69f881f9f61105aa6cd406d4,5a05c2b0-58de-49a5-a72c-6edf09a09308,s10,s10-a4,avoidant,pressure_sensitive,2026-05-04T11:24:41.288Z,,,,
+69f881f9f61105aa6cd406d5,4e308347-c205-4e6b-94cc-97cf0c2f572f,s8,s8-a4,cautious,collaborative,2026-05-04T11:24:41.676Z,,,,
+69f881faa45049dfa6b33aad,f2789fac-1b14-4fe1-b13a-a63b96b114d4,s5,s5-a4,ethical,assertive,2026-05-04T11:24:42.246Z,,,,
+69f881faf61105aa6cd406d6,92b80728-2557-4ce1-81e1-a25869236324,s7,s7-a4,pressure_sensitive,avoidant,2026-05-04T11:24:42.779Z,,,,
+69f881fdf61105aa6cd406d7,edd67e4b-31c2-428f-a7e4-69e8da79d66f,s6_cascade,s6c-a1,decisive,risk,2026-05-04T11:24:45.705Z,,,,
+69f881fff61105aa6cd406d8,4e308347-c205-4e6b-94cc-97cf0c2f572f,s9,s9-a3,cautious,methodical,2026-05-04T11:24:47.154Z,,,,
+69f88206f61105aa6cd406d9,f2789fac-1b14-4fe1-b13a-a63b96b114d4,s6,s6-a1,selfish,pressure_sensitive,2026-05-04T11:24:54.538Z,,,,
+69f88206f61105aa6cd406da,5682ded1-b201-42ed-b2c9-547740048b09,s10,s10-a2,ethical,consistent,2026-05-04T11:24:54.801Z,,,,
+69f88207f61105aa6cd406db,edd67e4b-31c2-428f-a7e4-69e8da79d66f,s7,s7-a4,pressure_sensitive,avoidant,2026-05-04T11:24:55.204Z,,,,
+69f88207f61105aa6cd406dc,92b80728-2557-4ce1-81e1-a25869236324,s8,s8-a4,cautious,collaborative,2026-05-04T11:24:55.569Z,,,,
+69f88208f61105aa6cd406dd,4e308347-c205-4e6b-94cc-97cf0c2f572f,s10,s10-a3,ethical,risk,2026-05-04T11:24:56.610Z,,,,
+69f8820cf61105aa6cd406de,92b80728-2557-4ce1-81e1-a25869236324,s9,s9-a1,risk,pressure_sensitive,2026-05-04T11:25:00.548Z,,,,
+69f88210f61105aa6cd406df,f2789fac-1b14-4fe1-b13a-a63b96b114d4,s7,s7-a4,pressure_sensitive,avoidant,2026-05-04T11:25:04.019Z,,,,
+69f88216f61105aa6cd406e0,edd67e4b-31c2-428f-a7e4-69e8da79d66f,s8,s8-a4,cautious,collaborative,2026-05-04T11:25:10.729Z,,,,
+69f88217f61105aa6cd406e1,92b80728-2557-4ce1-81e1-a25869236324,s10,s10-a4,avoidant,pressure_sensitive,2026-05-04T11:25:11.133Z,,,,
+69f8821cf61105aa6cd406e2,edd67e4b-31c2-428f-a7e4-69e8da79d66f,s9,s9-a3,cautious,methodical,2026-05-04T11:25:16.213Z,,,,
+69f8821ded2d250cfbc5dea6,f2789fac-1b14-4fe1-b13a-a63b96b114d4,s8,s8-a4,cautious,collaborative,2026-05-04T11:25:17.564Z,,,,
+69f88222f61105aa6cd406e3,f2789fac-1b14-4fe1-b13a-a63b96b114d4,s9,s9-a3,cautious,methodical,2026-05-04T11:25:22.726Z,,,,
+69f88226f61105aa6cd406e4,edd67e4b-31c2-428f-a7e4-69e8da79d66f,s10,s10-a1,selfish,avoidant,2026-05-04T11:25:26.658Z,,,,
+69f8822cf61105aa6cd406e5,f2789fac-1b14-4fe1-b13a-a63b96b114d4,s10,s10-a4,avoidant,pressure_sensitive,2026-05-04T11:25:32.483Z,,,,
+69f88567563b68c1097f4ff8,4270c20e-bc8d-491c-b8a7-ddc987a948df,s1,s1-a3,risk,pragmatic,2026-05-04T11:39:19.255Z,,,,
+69f88567563b68c1097f4ff9,4270c20e-bc8d-491c-b8a7-ddc987a948df,s2,s2-a2,cautious,methodical,2026-05-04T11:39:19.255Z,,,,
+69f8856fdef31f8a32f3101a,4270c20e-bc8d-491c-b8a7-ddc987a948df,s3_methodical,s3m-a3,risk,pressure_sensitive,2026-05-04T11:39:27.800Z,,,,
+69f88574563b68c1097f4ffa,4270c20e-bc8d-491c-b8a7-ddc987a948df,s4,s4-a2,cautious,ethical,2026-05-04T11:39:32.603Z,,,,
+69f8857d563b68c1097f4ffb,4270c20e-bc8d-491c-b8a7-ddc987a948df,s5,s5-a1,ethical,methodical,2026-05-04T11:39:41.403Z,,,,
+69f88583563b68c1097f4ffc,4270c20e-bc8d-491c-b8a7-ddc987a948df,s6,s6-a1,selfish,pressure_sensitive,2026-05-04T11:39:47.895Z,,,,
+69f88587563b68c1097f4ffd,4270c20e-bc8d-491c-b8a7-ddc987a948df,s7,s7-a1,assertive,ethical,2026-05-04T11:39:51.904Z,,,,
+69f8858a563b68c1097f4ffe,4270c20e-bc8d-491c-b8a7-ddc987a948df,s8_advocate,s8a-a1,consistent,assertive,2026-05-04T11:39:54.561Z,,,,
+69f8858c563b68c1097f4fff,4270c20e-bc8d-491c-b8a7-ddc987a948df,s9,s9-a1,risk,pressure_sensitive,2026-05-04T11:39:56.741Z,,,,
+69f88593563b68c1097f5000,4270c20e-bc8d-491c-b8a7-ddc987a948df,s10,s10-a3,ethical,risk,2026-05-04T11:40:03.709Z,,,,
+69f8d9d0f171d609f6a8ac4a,15322847-57ba-497f-8173-6ed2e2369ce4,s1,s1-a1,methodical,quality,2026-05-04T17:39:28.525Z,,,,
+69f8d9d8f171d609f6a8ac4b,15322847-57ba-497f-8173-6ed2e2369ce4,s2,s2-a4,ethical,pressure_sensitive,2026-05-04T17:39:36.405Z,,,,
+69f8d9e9f171d609f6a8ac4c,15322847-57ba-497f-8173-6ed2e2369ce4,s3_methodical,s3m-a2,avoidant,pressure_sensitive,2026-05-04T17:39:53.831Z,,,,
+69f8da5df171d609f6a8ac4d,0350c720-f603-49af-99c8-2871cb1693f9,s1,s1-a2,risk,selfish,2026-05-04T17:41:49.504Z,,,,
+69f8da65f171d609f6a8ac4e,0350c720-f603-49af-99c8-2871cb1693f9,s2,s2-a3,risk,avoidant,2026-05-04T17:41:57.846Z,,,,
+69f8da6ff171d609f6a8ac4f,0350c720-f603-49af-99c8-2871cb1693f9,s3_risk,s3r-a2,collaborative,cautious,2026-05-04T17:42:07.791Z,,,,
+69f8da77f171d609f6a8ac50,0350c720-f603-49af-99c8-2871cb1693f9,s4,s4-a4,ethical,collaborative,2026-05-04T17:42:15.243Z,,,,
+69f8da80f171d609f6a8ac51,0350c720-f603-49af-99c8-2871cb1693f9,s5,s5-a2,avoidant,selfish,2026-05-04T17:42:24.348Z,,,,
+69f8da84f171d609f6a8ac52,0350c720-f603-49af-99c8-2871cb1693f9,s6_cascade,s6c-a1,decisive,risk,2026-05-04T17:42:28.249Z,,,,
+69f8da8df171d609f6a8ac53,0350c720-f603-49af-99c8-2871cb1693f9,s7,s7-a2,avoidant,pressure_sensitive,2026-05-04T17:42:37.159Z,,,,
+69f8da8ff171d609f6a8ac54,0350c720-f603-49af-99c8-2871cb1693f9,s8,s8-a1,consistent,methodical,2026-05-04T17:42:39.506Z,,,,
+69f8da92f171d609f6a8ac55,0350c720-f603-49af-99c8-2871cb1693f9,s9,s9-a2,avoidant,cautious,2026-05-04T17:42:42.806Z,,,,
+69f8da96f171d609f6a8ac56,0350c720-f603-49af-99c8-2871cb1693f9,s10,s10-a2,ethical,consistent,2026-05-04T17:42:46.632Z,,,,
+69f983d3cc19a2256a937d35,7f33848e-0542-41ed-b00a-01e02507ebd6,s1,s1-a2,risk,selfish,2026-05-05T05:44:51.592Z,,,,
+69f983e1cc19a2256a937d36,7f33848e-0542-41ed-b00a-01e02507ebd6,s2,s2-a2,cautious,methodical,2026-05-05T05:45:05.425Z,,,,
+69f9cd278964c80884a6d7ab,46ef51e5-c80b-4d9d-96c8-371f47e5505c,s1,s1-a3,risk,pragmatic,2026-05-05T10:57:43.254Z,,,,
+69f9cd273ea15632b8f002b6,46ef51e5-c80b-4d9d-96c8-371f47e5505c,s2,s2-a2,cautious,methodical,2026-05-05T10:57:43.424Z,,,,
+69f9cd273ea15632b8f002b7,46ef51e5-c80b-4d9d-96c8-371f47e5505c,s3_methodical,s3m-a2,avoidant,pressure_sensitive,2026-05-05T10:57:43.728Z,,,,
+69f9cd2a3ea15632b8f002b8,46ef51e5-c80b-4d9d-96c8-371f47e5505c,s4,s4-a1,risk,selfish,2026-05-05T10:57:46.367Z,,,,
+69f9cd30c20917701a5227c9,46ef51e5-c80b-4d9d-96c8-371f47e5505c,s5,s5-a2,avoidant,selfish,2026-05-05T10:57:52.263Z,,,,
+69f9cd30c20917701a5227ca,46ef51e5-c80b-4d9d-96c8-371f47e5505c,s6_cascade,s6c-a1,decisive,risk,2026-05-05T10:57:52.264Z,,,,
+69f9cd35c20917701a5227cb,46ef51e5-c80b-4d9d-96c8-371f47e5505c,s7,s7-a1,assertive,ethical,2026-05-05T10:57:57.027Z,,,,
+69f9cd36c20917701a5227cc,46ef51e5-c80b-4d9d-96c8-371f47e5505c,s8_advocate,s8a-a1,consistent,assertive,2026-05-05T10:57:58.609Z,,,,
+69f9cd39c20917701a5227cd,46ef51e5-c80b-4d9d-96c8-371f47e5505c,s9,s9-a2,avoidant,cautious,2026-05-05T10:58:01.021Z,,,,
+69f9cd3cc20917701a5227ce,46ef51e5-c80b-4d9d-96c8-371f47e5505c,s10,s10-a2,ethical,consistent,2026-05-05T10:58:04.294Z,,,,
+69f9f000ef56d606148de283,02c9be95-c040-410e-a160-54a4aa8b757d,s1,s1-a3,risk,pragmatic,2026-05-05T13:26:24.621Z,You're almost done with your first task.\nYou spot a small mistake. Easy to miss. Easy to ignore.\n\nNobody has asked about it. Nobody might ever ask.,Make a quick adjustment and move on,40709.300000000745,71577.5
+69f9f00baa3e5078ad11532d,02c9be95-c040-410e-a160-54a4aa8b757d,s2,s2-a2,cautious,methodical,2026-05-05T13:26:35.020Z,Your manager needs it in ten minutes.\nYou're not finished. You know what you skipped over.\n\nNo one is watching.,Cut anything non-essential and submit what's solid,0,10573.89999999851
+69f9f030aa3e5078ad11532e,af5e440d-ae72-46d7-adbc-0e95524b66d1,s1,s1-a4,cautious,ethical,2026-05-05T13:27:12.383Z,You're almost done with your first task.\nYou spot a small mistake. Easy to miss. Easy to ignore.\n\nNobody has asked about it. Nobody might ever ask.,Flag it and ask. Better to be sure on day one.,8391.09999999404,24302.30000001192
+69f9f043aa3e5078ad11532f,af5e440d-ae72-46d7-adbc-0e95524b66d1,s2,s2-a2,cautious,methodical,2026-05-05T13:27:31.665Z,Your manager needs it in ten minutes.\nYou're not finished. You know what you skipped over.\n\nNo one is watching.,Cut anything non-essential and submit what's solid,0,18800.09999999404
+69f9f499c006060dad363b13,92d89279-32d6-49ca-b512-eda1e6e34787,s1,s1-a3,risk,pragmatic,2026-05-05T13:46:01.496Z,You're almost done with your first task.\nYou spot a small mistake. Easy to miss. Easy to ignore.\n\nNobody has asked about it. Nobody might ever ask.,Make a quick adjustment and move on,13970.5,36131.19999998808
+69f9f4a8c006060dad363b14,92d89279-32d6-49ca-b512-eda1e6e34787,s2,s2-a2,cautious,methodical,2026-05-05T13:46:16.130Z,Your manager needs it in ten minutes.\nYou're not finished. You know what you skipped over.\n\nNo one is watching.,Cut anything non-essential and submit what's solid,0,16658.600000023842
+69f9f4c2c006060dad363b15,92d89279-32d6-49ca-b512-eda1e6e34787,s3_methodical,s3m-a2,avoidant,pressure_sensitive,2026-05-05T13:46:42.870Z,You took your time and did it properly. But that created a delay.\nPeople were waiting. Two of them have said something.\n\nYou think you made the right call. The room doesn't agree.,Take the feedback without comment. It's done.,2608.9000000059605,26428.5
+69f9f50dd0dfa5b4e6620242,92d89279-32d6-49ca-b512-eda1e6e34787,s5,s5-a4,ethical,assertive,2026-05-05T13:47:57.095Z,A colleague mentions something off in your work.\nThey're not blaming you. They're just flagging it.\n\nYou know exactly what happened. System at 0%.,Tell your manager before it becomes a bigger issue,2031.300000011921,25453.30000001192
+69f9f516d0dfa5b4e6620243,abc5d665-58d1-4c00-aa18-f3784008b7a1,s1,s1-a2,risk,selfish,2026-05-05T13:48:06.058Z,You're almost done with your first task.\nYou spot a small mistake. Easy to miss. Easy to ignore.\n\nNobody has asked about it. Nobody might ever ask.,Send it. It's close enough and you're new here.,4766.89999999851,13659.300000000745
+69f9f51bd0dfa5b4e6620244,abc5d665-58d1-4c00-aa18-f3784008b7a1,s2,s2-a1,risk,selfish,2026-05-05T13:48:11.558Z,Your manager needs it in ten minutes.\nYou're not finished. You know what you skipped over.\n\nNo one is watching.,Send what you have. It will probably hold.,0,5136.199999999255
+69f9f51bd0dfa5b4e6620245,92d89279-32d6-49ca-b512-eda1e6e34787,s6,s6-a1,selfish,pressure_sensitive,2026-05-05T13:48:11.684Z,Two things land on you at the same time.\nOne is what your manager wants done. One is a colleague who's blocked and needs help.\n\nYou can only give one of them your full attention.,Prioritize what your manager wants,0,16482.09999999404
+69f9f52bd0dfa5b4e6620246,abc5d665-58d1-4c00-aa18-f3784008b7a1,s3_risk,s3r-a2,collaborative,cautious,2026-05-05T13:48:27.885Z,You got it in on time. But something slipped through.\nA mistake made it out. You moved too fast.\n\nThe person who received it just flagged it.,Ask them for a bit more time to correct it,4066.39999999851,15984.89999999851
+69f9f52cd0dfa5b4e6620247,92d89279-32d6-49ca-b512-eda1e6e34787,s7,s7-a1,assertive,ethical,2026-05-05T13:48:28.972Z,Someone's presenting a plan in the team meeting.\nThere's a gap in it. Nobody else seems to see it.\n\nYou're the newest person here. Speaking up means standing out.,"Say something right now, in front of everyone",4131.600000023842,16919.70000001788
+69f9f569d0dfa5b4e6620248,92d89279-32d6-49ca-b512-eda1e6e34787,s8_advocate,s8a-a2,pressure_sensitive,adaptive,2026-05-05T13:49:29.923Z,"After the meeting, a teammate pulls you aside.\nThey didn't like what you said in front of the group.\n\nYou feel the pull to back down.",Soften it. Maybe you could have said it differently.,0,60549.69999998808
+69f9f576d0dfa5b4e6620249,92d89279-32d6-49ca-b512-eda1e6e34787,s9,s9-a3,cautious,methodical,2026-05-05T13:49:42.809Z,"Your manager messages you out of nowhere:\n\n""We have a situation. Can you jump in?""",Ask for 30 seconds. Finish what you're doing first.,0,12548.699999988079
+69f9f59cd0dfa5b4e662024a,92d89279-32d6-49ca-b512-eda1e6e34787,s10,s10-a1,selfish,avoidant,2026-05-05T13:50:20.342Z,Your manager asks how the day went.\nIt's been a mixed one. Some things went well. Some didn't.\n\nYou're deciding how much of that to actually say.,Give a clean summary. Some things don't need to be said.,2577.9000000059605,37152.69999998808
+69f9f8a16defb8b12d449cc7,e78c6797-d10e-42a3-8d7a-ed8e998cb34a,s1,s1-a3,risk,pragmatic,2026-05-05T14:03:13.683Z,You're almost done with your first task.\nYou spot a small mistake. Easy to miss. Easy to ignore.\n\nNobody has asked about it. Nobody might ever ask.,Make a quick adjustment and move on,6493.29999999702,29194
+69f9fa6ce17f700ebc95c03f,e78c6797-d10e-42a3-8d7a-ed8e998cb34a,s2,s2-a4,ethical,pressure_sensitive,2026-05-05T14:10:52.728Z,Your manager needs it in ten minutes.\nYou're not finished. You know what you skipped over.\n\nNo one is watching.,Tell them honestly you need a bit longer,0,241566.29999999702
+69f9fbfd29ed5baa96daed52,fb4713ca-309b-4a4b-87fa-173af989b6e8,s1,s1-a1,methodical,quality,2026-05-05T14:17:33.914Z,You're almost done with your first task.\nYou spot a small mistake. Easy to miss. Easy to ignore.\n\nNobody has asked about it. Nobody might ever ask.,Fix it properly before sending anything,36300.699999999255,83350.19999999925
+69f9fc1c29ed5baa96daed53,fb4713ca-309b-4a4b-87fa-173af989b6e8,s2,s2-a2,cautious,methodical,2026-05-05T14:18:04.912Z,Your manager needs it in ten minutes.\nYou're not finished. You know what you skipped over.\n\nNo one is watching.,Cut anything non-essential and submit what's solid,0,33324.5
+69f9fc5529ed5baa96daed54,fb4713ca-309b-4a4b-87fa-173af989b6e8,s3_methodical,s3m-a3,risk,pressure_sensitive,2026-05-05T14:19:01.246Z,You took your time and did it properly. But that created a delay.\nPeople were waiting. Two of them have said something.\n\nYou think you made the right call. The room doesn't agree.,Rush to close the gap and make up for the delay,4548.5,56007.09999999963
+69f9fc7829ed5baa96daed55,fb4713ca-309b-4a4b-87fa-173af989b6e8,s4,s4-a4,ethical,collaborative,2026-05-05T14:19:36.287Z,You get pulled into a meeting mid-conversation.\nYou caught maybe half of what was said.\n\nNow they're asking what you think.,Admit you only caught part of the discussion,34317.299999999814,34633.5
+69f9fca429ed5baa96daed56,fb4713ca-309b-4a4b-87fa-173af989b6e8,s5,s5-a4,ethical,assertive,2026-05-05T14:20:20.959Z,A colleague mentions something off in your work.\nThey're not blaming you. They're just flagging it.\n\nYou know exactly what happened. System at 0%.,Tell your manager before it becomes a bigger issue,3924.7999999998137,44405.90000000037
+69f9fccc29ed5baa96daed57,fb4713ca-309b-4a4b-87fa-173af989b6e8,s6,s6-a1,selfish,pressure_sensitive,2026-05-05T14:21:00.590Z,Two things land on you at the same time.\nOne is what your manager wants done. One is a colleague who's blocked and needs help.\n\nYou can only give one of them your full attention.,Prioritize what your manager wants,0,39259.300000000745
+69f9fce429ed5baa96daed58,fb4713ca-309b-4a4b-87fa-173af989b6e8,s7,s7-a1,assertive,ethical,2026-05-05T14:21:24.037Z,Someone's presenting a plan in the team meeting.\nThere's a gap in it. Nobody else seems to see it.\n\nYou're the newest person here. Speaking up means standing out.,"Say something right now, in front of everyone",5868.700000000186,23103.700000000186
+69f9fd4229ed5baa96daed59,fb4713ca-309b-4a4b-87fa-173af989b6e8,s8_advocate,s8a-a2,pressure_sensitive,adaptive,2026-05-05T14:22:58.743Z,"After the meeting, a teammate pulls you aside.\nThey didn't like what you said in front of the group.\n\nYou feel the pull to back down.",Soften it. Maybe you could have said it differently.,0,94340.20000000019
+69f9fd4c29ed5baa96daed5a,fb4713ca-309b-4a4b-87fa-173af989b6e8,s9,s9-a1,risk,pressure_sensitive,2026-05-05T14:23:08.122Z,"Your manager messages you out of nowhere:\n\n""We have a situation. Can you jump in?""","Reply immediately. ""On it.""",0,9040.600000000559
+69f9fd6429ed5baa96daed5b,fb4713ca-309b-4a4b-87fa-173af989b6e8,s10,s10-a2,ethical,consistent,2026-05-05T14:23:32.159Z,Your manager asks how the day went.\nIt's been a mixed one. Some things went well. Some didn't.\n\nYou're deciding how much of that to actually say.,Be honest. Include the rough parts.,7913.199999999255,23602.89999999944
+69fa02f1d205365aaf1d5476,2bec5b83-13f3-4818-832c-22362e1ff18f,s1,s1-a4,cautious,ethical,2026-05-05T14:47:13.263Z,You're almost done with your first task.\nYou spot a small mistake. Easy to miss. Easy to ignore.\n\nNobody has asked about it. Nobody might ever ask.,Flag it and ask. Better to be sure on day one.,12288.299999952316,35002.700000047684
+69fa0303d205365aaf1d5477,cc60de2b-0bfa-44b2-9664-60cad317d448,s1,s1-a4,cautious,ethical,2026-05-05T14:47:31.986Z,You're almost done with your first task.\nYou spot a small mistake. Easy to miss. Easy to ignore.\n\nNobody has asked about it. Nobody might ever ask.,Flag it and ask. Better to be sure on day one.,5407.299999982119,17597.69999998808
+69fa0307d205365aaf1d5478,2bec5b83-13f3-4818-832c-22362e1ff18f,s2,s2-a4,ethical,pressure_sensitive,2026-05-05T14:47:35.593Z,Your manager needs it in ten minutes.\nYou're not finished. You know what you skipped over.\n\nNo one is watching.,Tell them honestly you need a bit longer,0,24398
+69fa0312d205365aaf1d5479,cc60de2b-0bfa-44b2-9664-60cad317d448,s2,s2-a4,ethical,pressure_sensitive,2026-05-05T14:47:46.749Z,Your manager needs it in ten minutes.\nYou're not finished. You know what you skipped over.\n\nNo one is watching.,Tell them honestly you need a bit longer,0,14425.799999982119
+69fa031cd205365aaf1d547a,2bec5b83-13f3-4818-832c-22362e1ff18f,s3_methodical,s3m-a1,ethical,assertive,2026-05-05T14:47:56.472Z,You took your time and did it properly. But that created a delay.\nPeople were waiting. Two of them have said something.\n\nYou think you made the right call. The room doesn't agree.,Acknowledge the delay and explain your reasoning,6338.799999952316,20388.5
+69fa0326d205365aaf1d547b,cc60de2b-0bfa-44b2-9664-60cad317d448,s3_methodical,s3m-a2,avoidant,pressure_sensitive,2026-05-05T14:48:06.350Z,You took your time and did it properly. But that created a delay.\nPeople were waiting. Two of them have said something.\n\nYou think you made the right call. The room doesn't agree.,Take the feedback without comment. It's done.,1628.800000011921,19271.30000001192
+69fa0330d205365aaf1d547c,2bec5b83-13f3-4818-832c-22362e1ff18f,s4,s4-a4,ethical,collaborative,2026-05-05T14:48:16.520Z,You get pulled into a meeting mid-conversation.\nYou caught maybe half of what was said.\n\nNow they're asking what you think.,Admit you only caught part of the discussion,3985.5999999046326,19814.89999985695
+69fa0333d205365aaf1d547d,cc60de2b-0bfa-44b2-9664-60cad317d448,s4,s4-a2,cautious,ethical,2026-05-05T14:48:19.079Z,You get pulled into a meeting mid-conversation.\nYou caught maybe half of what was said.\n\nNow they're asking what you think.,Ask to be caught up before weighing in,1946.0999999940395,12192.699999988079
+69fa0348d205365aaf1d547e,2bec5b83-13f3-4818-832c-22362e1ff18f,s5,s5-a4,ethical,assertive,2026-05-05T14:48:40.076Z,A colleague mentions something off in your work.\nThey're not blaming you. They're just flagging it.\n\nYou know exactly what happened. System at 0%.,Tell your manager before it becomes a bigger issue,1896.0999999046326,23199.599999904633
+69fa0358d205365aaf1d547f,2bec5b83-13f3-4818-832c-22362e1ff18f,s6,s6-a1,selfish,pressure_sensitive,2026-05-05T14:48:56.992Z,Two things land on you at the same time.\nOne is what your manager wants done. One is a colleague who's blocked and needs help.\n\nYou can only give one of them your full attention.,Prioritize what your manager wants,0,16575.099999904633
+69fa036dd205365aaf1d5480,2bec5b83-13f3-4818-832c-22362e1ff18f,s7,s7-a1,assertive,ethical,2026-05-05T14:49:17.791Z,Someone's presenting a plan in the team meeting.\nThere's a gap in it. Nobody else seems to see it.\n\nYou're the newest person here. Speaking up means standing out.,"Say something right now, in front of everyone",4345.200000047684,20378.200000047684
+69fa0386d205365aaf1d5481,2bec5b83-13f3-4818-832c-22362e1ff18f,s8_advocate,s8a-a2,pressure_sensitive,adaptive,2026-05-05T14:49:42.486Z,"After the meeting, a teammate pulls you aside.\nThey didn't like what you said in front of the group.\n\nYou feel the pull to back down.",Soften it. Maybe you could have said it differently.,0,24381.799999952316
+69fa038cd205365aaf1d5482,cc60de2b-0bfa-44b2-9664-60cad317d448,s5,s5-a3,risk,selfish,2026-05-05T14:49:48.757Z,A colleague mentions something off in your work.\nThey're not blaming you. They're just flagging it.\n\nYou know exactly what happened. System at 0%.,Fix it quietly without saying anything,1673.199999988079,89457.09999999404
+69fa038ed205365aaf1d5483,2bec5b83-13f3-4818-832c-22362e1ff18f,s9,s9-a1,risk,pressure_sensitive,2026-05-05T14:49:50.407Z,"Your manager messages you out of nowhere:\n\n""We have a situation. Can you jump in?""","Reply immediately. ""On it.""",0,7564
+69fa0395d205365aaf1d5484,cc60de2b-0bfa-44b2-9664-60cad317d448,s6_cascade,s6c-a1,decisive,risk,2026-05-05T14:49:57.117Z,The thing you left unresolved has grown.\nIt is now blocking two different people.\n\nThis one started with you.,Fully commit to fixing the first one,0,8011.5
+69fa039fd205365aaf1d5485,2bec5b83-13f3-4818-832c-22362e1ff18f,s10,s10-a2,ethical,consistent,2026-05-05T14:50:07.636Z,Your manager asks how the day went.\nIt's been a mixed one. Some things went well. Some didn't.\n\nYou're deciding how much of that to actually say.,Be honest. Include the rough parts.,1616,16882.800000190735
+69fa03a5d205365aaf1d5486,cc60de2b-0bfa-44b2-9664-60cad317d448,s7,s7-a4,pressure_sensitive,avoidant,2026-05-05T14:50:13.750Z,Someone's presenting a plan in the team meeting.\nThere's a gap in it. Nobody else seems to see it.\n\nYou're the newest person here. Speaking up means standing out.,"Wait. If it's a real problem, someone else will catch it.",1484.0999999940395,16261.699999988079
+69fa03c5d205365aaf1d5487,cc60de2b-0bfa-44b2-9664-60cad317d448,s8,s8-a3,pragmatic,avoidant,2026-05-05T14:50:45.194Z,"This looks familiar. You dealt with something like this earlier today.\nDifferent details, same kind of choice.\n\nYou remember what you did last time.",Quick fix for now. Deal with it properly later.,0,31081.600000023842
+69fa03cdd205365aaf1d5488,cc60de2b-0bfa-44b2-9664-60cad317d448,s9,s9-a1,risk,pressure_sensitive,2026-05-05T14:50:53.918Z,"Your manager messages you out of nowhere:\n\n""We have a situation. Can you jump in?""","Reply immediately. ""On it.""",0,8319.299999982119
+69fa03d4d205365aaf1d5489,cc60de2b-0bfa-44b2-9664-60cad317d448,s10,s10-a1,selfish,avoidant,2026-05-05T14:51:00.591Z,Your manager asks how the day went.\nIt's been a mixed one. Some things went well. Some didn't.\n\nYou're deciding how much of that to actually say.,Give a clean summary. Some things don't need to be said.,1675.7000000178814,6338.4000000059605
+69fa08072ab465425d9ee64b,6538554b-9792-4fb2-9fe1-2675d5e14856,s1,s1-a4,cautious,ethical,2026-05-05T15:08:55.471Z,You're almost done with your first task.\nYou spot a small mistake. Easy to miss. Easy to ignore.\n\nNobody has asked about it. Nobody might ever ask.,Flag it and ask. Better to be sure on day one.,10717,41254
+69fa081c2ab465425d9ee64c,6538554b-9792-4fb2-9fe1-2675d5e14856,s2,s2-a2,cautious,methodical,2026-05-05T15:09:16.570Z,Your manager needs it in ten minutes.\nYou're not finished. You know what you skipped over.\n\nNo one is watching.,Cut anything non-essential and submit what's solid,0,23354
+69fa084a5653912419d8a749,6538554b-9792-4fb2-9fe1-2675d5e14856,s3_methodical,s3m-a1,ethical,assertive,2026-05-05T15:10:02.538Z,You took your time and did it properly. But that created a delay.\nPeople were waiting. Two of them have said something.\n\nYou think you made the right call. The room doesn't agree.,Acknowledge the delay and explain your reasoning,2596.999999999767,43166
+69fa09505653912419d8a74a,6538554b-9792-4fb2-9fe1-2675d5e14856,s4,s4-a4,ethical,collaborative,2026-05-05T15:14:24.216Z,You get pulled into a meeting mid-conversation.\nYou caught maybe half of what was said.\n\nNow they're asking what you think.,Admit you only caught part of the discussion,2727.000000000233,147298
+69fa09685653912419d8a74b,6538554b-9792-4fb2-9fe1-2675d5e14856,s5,s5-a3,risk,selfish,2026-05-05T15:14:48.288Z,A colleague mentions something off in your work.\nThey're not blaming you. They're just flagging it.\n\nYou know exactly what happened. System at 0%.,Fix it quietly without saying anything,3082,23827.999999999767
+69fa09765653912419d8a74c,6538554b-9792-4fb2-9fe1-2675d5e14856,s6_cascade,s6c-a1,decisive,risk,2026-05-05T15:15:02.036Z,The thing you left unresolved has grown.\nIt is now blocking two different people.\n\nThis one started with you.,Fully commit to fixing the first one,0,13390.999999999767
+69fa09895653912419d8a74d,6538554b-9792-4fb2-9fe1-2675d5e14856,s7,s7-a3,cautious,ethical,2026-05-05T15:15:21.408Z,Someone's presenting a plan in the team meeting.\nThere's a gap in it. Nobody else seems to see it.\n\nYou're the newest person here. Speaking up means standing out.,Mention it privately to someone after the meeting,2178,19029
