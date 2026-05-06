@@ -27,11 +27,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install pymongo
 
-      - name: Run export script
-        env:
-          MONGO_URI: ${{ secrets.MONGO_URI }}
-        run: python export_data.py
-
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
